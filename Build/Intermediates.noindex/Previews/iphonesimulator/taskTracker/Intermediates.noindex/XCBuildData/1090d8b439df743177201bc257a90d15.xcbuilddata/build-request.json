@@ -1,0 +1,69 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "cd47c6d3e351b17eb64987ab74397ef00ea93eb206e9868b00d6678a17a38c53"
+    }
+  ],
+  "containerPath" : "/Users/josealarconchacon/Dropbox/taskTracker/taskTracker.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/josealarconchacon/Dropbox/taskTracker/Build/Products",
+      "derivedDataPath" : "/Users/josealarconchacon/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/josealarconchacon/Library/Developer/Xcode/DerivedData/taskTracker-ehzqgcfqopqktxayljjkzjwfpduf/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/josealarconchacon/Library/Developer/Xcode/DerivedData/taskTracker-ehzqgcfqopqktxayljjkzjwfpduf/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/CodeCoverage/ProfileData",
+          "DSTROOT" : "/Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/Previews/iphonesimulator/taskTracker/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "OBJROOT" : "/Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/Previews/iphonesimulator/taskTracker/Intermediates.noindex",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "SYMROOT" : "/Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/Previews/iphonesimulator/taskTracker/Products",
+          "TARGET_DEVICE_IDENTIFIER" : "B5A831F1-68DC-4295-8578-1FC9A3B27F31",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

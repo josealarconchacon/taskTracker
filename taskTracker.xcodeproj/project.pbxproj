@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		676F4BFA2B9BD06B00F3FDD8 /* AddTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 676F4BF92B9BD06B00F3FDD8 /* AddTaskView.swift */; };
 		67A216A92B98B7AB000AA47D /* taskTrackerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67A216A82B98B7AB000AA47D /* taskTrackerApp.swift */; };
 		67A216AB2B98B7AB000AA47D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67A216AA2B98B7AB000AA47D /* ContentView.swift */; };
 		67A216AD2B98B7AD000AA47D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67A216AC2B98B7AD000AA47D /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		676F4BF92B9BD06B00F3FDD8 /* AddTaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTaskView.swift; sourceTree = "<group>"; };
 		67A216A52B98B7AB000AA47D /* taskTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = taskTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		67A216A82B98B7AB000AA47D /* taskTrackerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = taskTrackerApp.swift; sourceTree = "<group>"; };
 		67A216AA2B98B7AB000AA47D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -75,6 +77,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		676F4BF82B9BD03900F3FDD8 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				67A216AA2B98B7AB000AA47D /* ContentView.swift */,
+				676F4BF92B9BD06B00F3FDD8 /* AddTaskView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		67A2169C2B98B7AB000AA47D = {
 			isa = PBXGroup;
 			children = (
@@ -99,7 +110,7 @@
 			isa = PBXGroup;
 			children = (
 				67A216A82B98B7AB000AA47D /* taskTrackerApp.swift */,
-				67A216AA2B98B7AB000AA47D /* ContentView.swift */,
+				676F4BF82B9BD03900F3FDD8 /* View */,
 				67A216AC2B98B7AD000AA47D /* Assets.xcassets */,
 				67A216B12B98B7AD000AA47D /* Persistence.swift */,
 				67A216B32B98B7AD000AA47D /* taskTracker.xcdatamodeld */,
@@ -264,6 +275,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				67A216B22B98B7AD000AA47D /* Persistence.swift in Sources */,
+				676F4BFA2B9BD06B00F3FDD8 /* AddTaskView.swift in Sources */,
 				67A216AB2B98B7AB000AA47D /* ContentView.swift in Sources */,
 				67A216A92B98B7AB000AA47D /* taskTrackerApp.swift in Sources */,
 				67A216B52B98B7AD000AA47D /* taskTracker.xcdatamodeld in Sources */,
@@ -436,6 +448,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -465,6 +478,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (

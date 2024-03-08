@@ -1,0 +1,12 @@
+{
+  "source": "/Users/josealarconchacon/Dropbox/taskTracker/taskTracker/View/AddTaskView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, World!"
+      }
+    ]
+  },
+  "version": 1
+}
