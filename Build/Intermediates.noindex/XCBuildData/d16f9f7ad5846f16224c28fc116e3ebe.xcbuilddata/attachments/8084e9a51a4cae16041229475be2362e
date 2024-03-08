@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/Previews/iphonesimulator/taskTracker/Intermediates.noindex/taskTracker.build/Debug-iphonesimulator/taskTrackerTests.build/Objects-normal/arm64/taskTrackerTests-master.dia",
+    "emit-module-dependencies" : "/Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/Previews/iphonesimulator/taskTracker/Intermediates.noindex/taskTracker.build/Debug-iphonesimulator/taskTrackerTests.build/Objects-normal/arm64/taskTrackerTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/Previews/iphonesimulator/taskTracker/Intermediates.noindex/taskTracker.build/Debug-iphonesimulator/taskTrackerTests.build/Objects-normal/arm64/taskTrackerTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/Previews/iphonesimulator/taskTracker/Intermediates.noindex/taskTracker.build/Debug-iphonesimulator/taskTrackerTests.build/Objects-normal/arm64/taskTrackerTests-master.swiftdeps"
+  },
+  "/Users/josealarconchacon/Dropbox/taskTracker/taskTrackerTests/taskTrackerTests.swift" : {
+    "const-values" : "/Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/Previews/iphonesimulator/taskTracker/Intermediates.noindex/taskTracker.build/Debug-iphonesimulator/taskTrackerTests.build/Objects-normal/arm64/taskTrackerTests.swiftconstvalues",
+    "dependencies" : "/Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/Previews/iphonesimulator/taskTracker/Intermediates.noindex/taskTracker.build/Debug-iphonesimulator/taskTrackerTests.build/Objects-normal/arm64/taskTrackerTests.d",
+    "diagnostics" : "/Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/Previews/iphonesimulator/taskTracker/Intermediates.noindex/taskTracker.build/Debug-iphonesimulator/taskTrackerTests.build/Objects-normal/arm64/taskTrackerTests.dia",
+    "index-unit-output-path" : "/taskTracker.build/Debug-iphonesimulator/taskTrackerTests.build/Objects-normal/arm64/taskTrackerTests.o",
+    "llvm-bc" : "/Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/Previews/iphonesimulator/taskTracker/Intermediates.noindex/taskTracker.build/Debug-iphonesimulator/taskTrackerTests.build/Objects-normal/arm64/taskTrackerTests.bc",
+    "object" : "/Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/Previews/iphonesimulator/taskTracker/Intermediates.noindex/taskTracker.build/Debug-iphonesimulator/taskTrackerTests.build/Objects-normal/arm64/taskTrackerTests.o",
+    "swift-dependencies" : "/Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/Previews/iphonesimulator/taskTracker/Intermediates.noindex/taskTracker.build/Debug-iphonesimulator/taskTrackerTests.build/Objects-normal/arm64/taskTrackerTests.swiftdeps",
+    "swiftmodule" : "/Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/Previews/iphonesimulator/taskTracker/Intermediates.noindex/taskTracker.build/Debug-iphonesimulator/taskTrackerTests.build/Objects-normal/arm64/taskTrackerTests~partial.swiftmodule"
+  }
+}

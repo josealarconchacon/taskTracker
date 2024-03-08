@@ -1,0 +1,12 @@
+{
+  "source": "/Users/josealarconchacon/Dropbox/taskTracker/taskTracker/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Task Tracker"
+      }
+    ]
+  },
+  "version": 1
+}

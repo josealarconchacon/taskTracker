@@ -1,0 +1,20 @@
+{
+  "source": "/Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/Previews/taskTracker/Intermediates.noindex/taskTracker.build/Debug-iphonesimulator/taskTracker.build/Objects-normal/arm64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Select an item"
+      },
+      {
+        "comment": "",
+        "key": "Item at %@"
+      },
+      {
+        "comment": "",
+        "key": "Add Item"
+      }
+    ]
+  },
+  "version": 1
+}
