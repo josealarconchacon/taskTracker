@@ -1,5 +1,6 @@
 /Users/josealarconchacon/Dropbox/taskTracker/taskTracker/Persistence.swift
-/Users/josealarconchacon/Dropbox/taskTracker/taskTracker/ContentView.swift
+/Users/josealarconchacon/Dropbox/taskTracker/taskTracker/View/AddTaskView.swift
+/Users/josealarconchacon/Dropbox/taskTracker/taskTracker/View/ContentView.swift
 /Users/josealarconchacon/Dropbox/taskTracker/taskTracker/taskTrackerApp.swift
 /Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/Previews/iphonesimulator/taskTracker/Intermediates.noindex/taskTracker.build/Debug-iphonesimulator/taskTracker.build/DerivedSources/CoreDataGenerated/taskTracker/Item+CoreDataClass.swift
 /Users/josealarconchacon/Dropbox/taskTracker/Build/Intermediates.noindex/Previews/iphonesimulator/taskTracker/Intermediates.noindex/taskTracker.build/Debug-iphonesimulator/taskTracker.build/DerivedSources/CoreDataGenerated/taskTracker/Item+CoreDataProperties.swift

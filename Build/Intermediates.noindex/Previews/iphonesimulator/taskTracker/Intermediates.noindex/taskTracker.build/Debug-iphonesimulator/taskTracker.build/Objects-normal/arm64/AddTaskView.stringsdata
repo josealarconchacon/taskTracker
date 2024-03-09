@@ -4,7 +4,19 @@
     "Localizable": [
       {
         "comment": "",
-        "key": "Hello, World!"
+        "key": "Add Task"
+      },
+      {
+        "comment": "",
+        "key": "Enter Task..."
+      },
+      {
+        "comment": "",
+        "key": "Select Priority"
+      },
+      {
+        "comment": "",
+        "key": "Save Task"
       }
     ]
   },
